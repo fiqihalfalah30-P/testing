@@ -156,16 +156,67 @@ Setelah proses administrasi selesai, peserta dapat mulai mengikuti kegiatan maga
   </section>
 
   <section id="berita" class="section">
-    <h2>Berita Terkini</h2>
+    <h2>Berita</h2>
     <div class="cards">
-      <div class="card"><h3>Judul Berita</h3><p>Ringkasan berita.</p></div>
-      <div class="card"><h3>Judul Berita</h3><p>Ringkasan berita.</p></div>
-      <div class="card"><h3>Judul Berita</h3><p>Ringkasan berita.</p></div>
+      <div class="card">
+        <h3>K3 Depo Sidotopo</h3>
+        <p><strong>5 Kunci Keselamatan:</strong></p>
+        <ul>
+          <li>Patuhi prosedur kerja.</li>
+          <li>Briefing sebelum bekerja.</li>
+          <li>Memakai alat pelindung diri (APD).</li>
+          <li>Peduli terhadap lingkungan kerja.</li>
+          <li>Lapor potensi kejadian bahaya.</li>
+        </ul>
+        <p><strong>Nomor Telepon Penting:</strong></p>
+        <ul>
+          <li>Polisi: <strong>500210 / 110</strong></li>
+          <li>Contact Center / PMK: <strong>112 / 116</strong></li>
+          <li>Ambulans: <strong>119</strong></li>
+        </ul>
+        <p><strong>5 Petunjuk Tanggap Darurat:</strong></p>
+        <ul>
+          <li>Jangan panik.</li>
+          <li>Ikuti instruksi dari tim Tanggap Darurat.</li>
+          <li>Keluar melalui pintu sesuai rambu evakuasi.</li>
+          <li>Menuju titik kumpul aman.</li>
+          <li>Dilarang kembali ke area kerja tanpa izin.</li>
+        </ul>
+        <p><strong>Instruksi Sebelum Masuk Area Kerja:</strong></p>
+        <ul>
+          <li>Patuhi peraturan K3L.</li>
+          <li>Gunakan APD lengkap.</li>
+          <li>Perhatikan rambu evakuasi.</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h3>Absen Magang</h3>
+        <p>Silakan isi daftar hadir magang melalui link berikut:</p>
+        <p><a href="https://forms.gle/za6MiQiPC8E1hPnY8" target="_blank" style="color:var(--orange);font-weight:600;">➡ Form Absen Magang</a></p>
+        <p>Jika nama belum muncul, segera lapor administrasi atau DPL.</p>
+      </div>
+
+      <div class="card">
+        <h3>Galeri Depo Sidotopo</h3>
+        <p>Kumpulan dokumentasi kegiatan dan aktivitas di Depo Sidotopo.</p>
+        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;margin-top:15px;">
+          <img src="images/sidotopo1.jpg" style="width:100%;border-radius:10px;">
+          <img src="images/sidotopo2.jpg" style="width:100%;border-radius:10px;">
+          <img src="images/sidotopo3.jpg" style="width:100%;border-radius:10px;">
+          <img src="images/sidotopo4.jpg" style="width:100%;border-radius:10px;">
+        </div>
+      </div>
     </div>
   </section>
 
   <footer>
-    © 2025 DAOP 8 Surabaya — Magang Project
-  </footer>
+  © 2025 DAOP 8 Surabaya — Magang Project
+  <br><br>
+  <div style="max-width:320px;margin:0 auto;background:var(--glass);padding:12px;border-radius:14px;border:1px solid rgba(255,255,255,0.1);">
+    <img src="images/maps-sidotopo.jpg" alt="Maps Sidotopo" style="width:100%;border-radius:10px;margin-bottom:10px;">
+    <a href="https://share.google/ZWeSLcZ413yUdZrAO" target="_blank" style="color:var(--orange);font-weight:600;display:block;text-align:center;">📍 Lihat Lokasi Depo Sidotopo</a>
+  </div>
+</footer>
 </body>
 </html>
