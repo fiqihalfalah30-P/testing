@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Cara Mengajukan Magang - DAOP 8 Surabaya</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <style>
+    body { background:#0A1A2F; color:white; font-family:'Inter'; padding:30px; line-height:1.7; }
+    h1 { color:#FF7A00; }
+    a { color:#FF7A00; }
+  </style>
+</head>
+<body>
+
+<h1>Cara Mengajukan Magang di DAOP 8 Surabaya</h1>
+<p>Berikut langkah lengkap pengajuan magang:</p>
+
+<h2>1. Persiapan Dokumen</h2>
+<ul>
+  <li>Surat pengantar kampus/sekolah</li>
+  <li>Proposal pengajuan magang</li>
+  <li>CV</li>
+  <li>KTM/KTP</li>
+  <li>Dokumen tambahan sesuai kebutuhan</li>
+</ul>
+
+<h2>2. Pengajuan Berkas ke Stasiun Gubeng</h2>
+<p>Berkas dibawa ke gedung administrasi DAOP 8 Surabaya (sebelah Stasiun Gubeng).  
+Gunakan almamater kampus dan sampaikan maksud kedatangan kepada satpam.</p>
+
+<h2>3. Proses Menunggu</h2>
+<p>Surat panggilan biasanya diberikan ± 2 minggu sebelum pelaksanaan magang.</p>
+
+<br>
+<a href="index.html">⬅ Kembali</a>
+
+</body>
+</html>
