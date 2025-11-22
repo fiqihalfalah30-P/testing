@@ -108,8 +108,7 @@
   <section id="layanan" class="section">
     <h2>Layanan</h2>
     <div class="cards">
-      <!-- Setiap card sekarang menjadi link ke halaman detail -->
-      <a href="layanan-magang.html" class="card" style="text-decoration:none;color:inherit;"><h3>Cara Mengajukan Magang</h3>
+      <div class="card"><h3>Cara Mengajukan Magang</h3>
 <p><strong>1. Persiapan Dokumen</strong><br>
 Persiapkan dokumen-dokumen penting seperti surat pengantar dari kampus atau sekolah, proposal pengajuan magang ke DAOP 8 Surabaya, CV, KTM, serta identitas diri lainnya. Semua dokumen dijadikan satu berkas.</p>
 
@@ -117,8 +116,8 @@ Persiapkan dokumen-dokumen penting seperti surat pengantar dari kampus atau seko
 Datang langsung ke Stasiun Surabaya Gubeng dan menuju gedung administrasi DAOP 8. Untuk mahasiswa, gunakan almamater kampus. Sampaikan kepada satpam alasan dan tujuan datang, lalu kamu akan diarahkan ke bagian administrasi. Jangan lupa membawa KTP atau KTM.</p>
 
 <p><strong>3. Proses Menunggu</strong><br>
-Setelah dokumen diserahkan, proses verifikasi memerlukan waktu. Biasanya surat panggilan akan diberikan sekitar 2 minggu sebelum jadwal pelaksanaan magang. Pihak KAI akan menghubungi melalui kontak yang kamu cantumkan.</p></a>
-      <a href="layanan-pasca-pengumuman.html" class="card" style="text-decoration:none;color:inherit;"><h3>Langkah Setelah Menerima Pengumuman Magang</h3>
+Setelah dokumen diserahkan, proses verifikasi memerlukan waktu. Biasanya surat panggilan akan diberikan sekitar 2 minggu sebelum jadwal pelaksanaan magang. Pihak KAI akan menghubungi melalui kontak yang kamu cantumkan.</p></div>
+      <div class="card"><h3>Langkah Setelah Menerima Pengumuman Magang</h3>
 <p><strong>1. Membaca Surat Panggilan</strong><br>
 Setelah menerima pengumuman dari KAI, cek isi surat panggilan dengan teliti: tanggal mulai magang, lokasi lapor, aturan pakaian, serta dokumen yang perlu dibawa.</p>
 
@@ -132,8 +131,8 @@ Datang ke lokasi sesuai jadwal yang tertera, biasanya di Stasiun Sidotopo sesuai
 Peserta magang akan diarahkan untuk mengikuti briefing awal, pengenalan aturan KAI, serta pembagian tempat magang (misalnya sarana, prasarana, atau administrasi).</p>
 
 <p><strong>5. Mulai Pelaksanaan Magang</strong><br>
-Setelah proses administrasi selesai, peserta dapat mulai mengikuti kegiatan magang sesuai pembagian shift atau jadwal yang sudah ditetapkan.</p></a>
-      <a href="layanan-template-proposal.html" class="card" style="text-decoration:none;color:inherit;"><h3>Template Proposal Pengajuan Magang</h3>
+Setelah proses administrasi selesai, peserta dapat mulai mengikuti kegiatan magang sesuai pembagian shift atau jadwal yang sudah ditetapkan.</p></div>
+      <div class="card"><h3>Template Proposal Pengajuan Magang</h3>
 <p>Berikut contoh susunan proposal pengajuan magang ke DAOP 8 Surabaya:</p>
 <ul>
   <li><strong>Halaman Judul</strong> — berisi judul proposal, nama mahasiswa, NIM, prodi, dan kampus.</li>
@@ -152,14 +151,15 @@ Setelah proses administrasi selesai, peserta dapat mulai mengikuti kegiatan maga
   <li><a href="PROPOSAL KAI clear.pdf" download style="color:var(--orange);text-decoration:underline;">Download Proposal Magang (PDF)</a></li>
   <li><a href="surat pengantar kai.pdf" download style="color:var(--orange);text-decoration:underline;">Download Surat Pengantar (PDF)</a></li>
 </ul>
-</a>
+</div>
     </div>
   </section>
 
   <section id="berita" class="section">
     <h2>Berita</h2>
     <div class="cards">
-      <a href="berita-k3.html" class="card" style="text-decoration:none;color:inherit;"><h3>K3 Depo Sidotopo</h3>
+      <div class="card">
+        <h3>K3 Depo Sidotopo</h3>
         <p><strong>5 Kunci Keselamatan:</strong></p>
         <ul>
           <li>Patuhi prosedur kerja.</li>
@@ -188,14 +188,17 @@ Setelah proses administrasi selesai, peserta dapat mulai mengikuti kegiatan maga
           <li>Gunakan APD lengkap.</li>
           <li>Perhatikan rambu evakuasi.</li>
         </ul>
-      </a>
+      </div>
 
-      <a href="berita-absen.html" class="card" style="text-decoration:none;color:inherit;"><h3>Absen Magang</h3>
+      <div class="card">
+        <h3>Absen Magang</h3>
         <p>Silakan isi daftar hadir magang melalui link berikut:</p>
         <p><a href="https://forms.gle/za6MiQiPC8E1hPnY8" target="_blank" style="color:var(--orange);font-weight:600;">➡ Form Absen Magang</a></p>
         <p>Jika nama belum muncul, segera lapor administrasi atau DPL.</p>
-      </a>
-      <a href="berita-galeri.html" class="card" style="text-decoration:none;color:inherit;"><h3>Galeri Depo Sidotopo</h3>
+      </div>
+
+      <div class="card">
+        <h3>Galeri Depo Sidotopo</h3>
         <p>Kumpulan dokumentasi kegiatan dan aktivitas di Depo Sidotopo.</p>
         <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;margin-top:15px;">
           <img src="images/sidotopo1.jpg" style="width:100%;border-radius:10px;">
@@ -203,8 +206,7 @@ Setelah proses administrasi selesai, peserta dapat mulai mengikuti kegiatan maga
           <img src="images/sidotopo3.jpg" style="width:100%;border-radius:10px;">
           <img src="images/sidotopo4.jpg" style="width:100%;border-radius:10px;">
         </div>
-      </a>
-    </div>
+      </div>
     </div>
   </section>
 
@@ -218,4 +220,3 @@ Setelah proses administrasi selesai, peserta dapat mulai mengikuti kegiatan maga
 </footer>
 </body>
 </html>
-
