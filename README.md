@@ -106,7 +106,7 @@
   </section>
 
   <section id="layanan" class="section">
-    <h2>Layanan</h2>
+    <h2>Layanan Magang</h2>
     <div class="cards">
       <div class="card"><h3>Cara Mengajukan Magang</h3>
 <p>Ringkasan langkah awal pengajuan magang ke DAOP 8 Surabaya.</p>
